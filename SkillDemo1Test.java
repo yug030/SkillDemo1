@@ -7,6 +7,6 @@ import org.junit.Test;
 public class SkillDemo1Test {
     @Test
     public void testRemoveZero(){
-        assertEquals(1, SkillDemo1.returnZero());
+        assertEquals(0, SkillDemo1.returnZero());
     }
 }
